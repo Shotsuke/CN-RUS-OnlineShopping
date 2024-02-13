@@ -1,0 +1,23 @@
+{
+  "id": "4433036",
+  "name": "CN-RUS-OnlineShopping",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5634927",
+      "name": "zhihu",
+      "font_class": "zhihu",
+      "unicode": "f276",
+      "unicode_decimal": 62070
+    },
+    {
+      "icon_id": "3506850",
+      "name": "wechat",
+      "font_class": "wechat",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
