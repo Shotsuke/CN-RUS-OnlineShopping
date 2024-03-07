@@ -1,0 +1,35 @@
+.slogan-con {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.home-page .container {
+    margin: auto;
+    padding: 60px;
+    width: 1200px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+/* .container {
+    margin-top: 0px;
+} */
+
+.slogan {
+    color: black;
+    font-size: 44px;
+    height: 67px;
+    line-height: 67px;
+}
+
+.slogan-btn {
+    background-color: #ddaacc;
+    color: #fff;
+    font-size: 16px;
+    height: 48px;
+    line-height: 48px;
+    padding: 0 63px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0 2px 8px 0 rgba(221, 170, 204, .2);
+    box-shadow: 0 2px 8px 0 rgba(221, 170, 204, .2);
+}
