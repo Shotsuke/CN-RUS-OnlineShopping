@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "27365309",
+      "name": "telegram",
+      "font_class": "telegram",
+      "unicode": "ec25",
+      "unicode_decimal": 60453
+    },
+    {
+      "icon_id": "27365348",
+      "name": "vk",
+      "font_class": "vk",
+      "unicode": "ec2c",
+      "unicode_decimal": 60460
+    },
+    {
+      "icon_id": "22436528",
+      "name": "Go_ahead",
+      "font_class": "Go_ahead",
+      "unicode": "e9bf",
+      "unicode_decimal": 59839
+    },
+    {
       "icon_id": "5634927",
       "name": "zhihu",
       "font_class": "zhihu",

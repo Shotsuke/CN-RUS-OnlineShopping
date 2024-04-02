@@ -30,6 +30,13 @@
     line-height: 56px;
 }
 
+.scene-subtitle {
+    font-size: 20px;
+    color: #1d2129;
+    height: 40px;
+    line-height: 40px;
+}
+
 .scene-info {
     margin: 16px 0;
     font-size: 18px;

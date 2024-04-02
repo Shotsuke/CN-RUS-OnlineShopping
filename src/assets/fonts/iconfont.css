@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4433036 */
-  src: url('iconfont.woff2?t=1707130743905') format('woff2'),
-       url('iconfont.woff?t=1707130743905') format('woff'),
-       url('iconfont.ttf?t=1707130743905') format('truetype'),
-       url('iconfont.svg?t=1707130743905#iconfont') format('svg');
+  src: url('iconfont.woff2?t=1712049336596') format('woff2'),
+       url('iconfont.woff?t=1712049336596') format('woff'),
+       url('iconfont.ttf?t=1712049336596') format('truetype'),
+       url('iconfont.svg?t=1712049336596#iconfont') format('svg');
 }
 
 .iconfont {
@@ -12,6 +12,18 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-telegram:before {
+  content: "\ec25";
+}
+
+.icon-vk:before {
+  content: "\ec2c";
+}
+
+.icon-Go_ahead:before {
+  content: "\e9bf";
 }
 
 .icon-zhihu:before {

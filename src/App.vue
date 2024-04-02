@@ -38,7 +38,7 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   margin: 0;
-
   padding: 0;
+  background-color: rgb(248, 255, 248);
 }
 </style>

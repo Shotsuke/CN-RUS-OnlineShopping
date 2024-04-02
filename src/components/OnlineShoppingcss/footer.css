@@ -83,8 +83,12 @@ footer {
     position: relative;
 }
 
-.icon-tooltip.wechat-icon {
-    color: #11ac36;
+.icon-tooltip.telegram-icon {
+    color: rgb(102, 102, 102);
+}
+
+.icon-tooltip.vk-icon {
+    color: rgb(102, 102, 102);
 }
 
 .icon {
@@ -93,7 +97,7 @@ footer {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    font-size: 26px;
+    font-size: 20px;
     line-height: 48px;
     cursor: pointer;
 }
@@ -128,11 +132,22 @@ footer {
     height: auto;
 }
 
-.icon-tooltip.zhihuicon {
+/* .icon-tooltip.icontelegram {
     color: #333333;
 }
 
-.zhihu-icon a {
+.icon-tooltip.iconvk {
+    color: #333333;
+} */
+
+.telegram-icon a {
+    text-decoration: none;
+    color: #fff;
+    position: relative;
+    border-bottom: none;
+}
+
+.vk-icon a {
     text-decoration: none;
     color: #fff;
     position: relative;

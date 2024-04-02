@@ -94,7 +94,7 @@
 } */
 
 .template-title {
-    font-size: 40px;
+    font-size: 32px;
     color: #fff;
     height: 59px;
     line-height: 59px;
@@ -103,7 +103,7 @@
 
 .template-subtitle {
     margin: 32px 0 64px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     color: hsla(0, 0%, 100%, .7);
     height: 28px;

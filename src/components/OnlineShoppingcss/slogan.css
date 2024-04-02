@@ -17,19 +17,27 @@
 
 .slogan {
     color: black;
-    font-size: 44px;
+    font-size: 32px;
     height: 67px;
     line-height: 67px;
 }
 
 .slogan-btn {
-    background-color: #ddaacc;
+    background-color: rgb(100, 200, 100);
     color: #fff;
     font-size: 16px;
     height: 48px;
     line-height: 48px;
     padding: 0 63px;
+    border: #fff;
     border-radius: 6px;
-    -webkit-box-shadow: 0 2px 8px 0 rgba(221, 170, 204, .2);
-    box-shadow: 0 2px 8px 0 rgba(221, 170, 204, .2);
+    -webkit-box-shadow: 0 2px 8px 0 rgba(100, 200, 100, .2);
+    box-shadow: 0 2px 8px 0 rgba(100, 200, 100, .2);
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.slogan-btn:hover {
+    background-color: #4CAF50;
+    color: white;
 }
