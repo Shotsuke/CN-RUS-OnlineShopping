@@ -49,7 +49,7 @@
                     <div class="scene-con">
                         <div class="scene scene1">
                             <div class="scene-anime">
-                                <img src="../assets/images/mingteacan.jpg" width="650"
+                                <img src="../assets/images/mingteacans.png" width="650"
                                 alt="scene-img1" class="scene-img scene-img1">
                             </div>
                             <div class="scene-intro">
